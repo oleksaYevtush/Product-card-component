@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](screenshots/product-prev-desktop-screen.png)
-![](screenshots/product-prev-mobile-screen.png)
+![](screenshot/desktop.png)
+![](screenshot/mobile.png)
 
 
